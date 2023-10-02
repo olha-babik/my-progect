@@ -101,5 +101,6 @@ p {
   .primary-link {
     display: flex;
     justify-content: center;
+    margin: 0 40px;
   }
 }
